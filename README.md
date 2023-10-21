@@ -1,3 +1,3 @@
 # CountryAnalysis
-Author: Tomas Kmet\n
+Author: Tomas Kmet </br>
 Contributor: Jad Khalil
